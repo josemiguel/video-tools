@@ -1,0 +1,8 @@
+scikit-image
+opencv-python
+psycopg2-binary
+openai
+twilio
+requests
+numpy
+annoy
